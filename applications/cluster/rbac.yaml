@@ -13,7 +13,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/daws-90s/argocd-v1.git
+    repoURL: https://github.com/Manjunath-Yelipeta/argocd-v1.git
     targetRevision: main
     path: applications/cluster/rbac
 
