@@ -11,7 +11,7 @@ spec:
   project: default
 
   source:
-    chart: aws-load-balancer-controller
+    chart: catalogue
     repoURL: https://github.com/daws-90s/catalogue-config.git
     targetRevision: main # chart-version
     path: .
