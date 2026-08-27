@@ -11,7 +11,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/daws-90s/catalogue-config.git
+    repoURL: https://github.com/Manjunath-Yelipeta/catalogue-config.git
     targetRevision: main # chart-version
     path: .
     helm:
